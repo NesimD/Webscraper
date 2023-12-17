@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "EuviOZ0ibFXs154bZymerCrCZpEdUh4zVcZb8HbACxRI7LwmP/fLycG7PXGZNZSEYZN5h3nCLZDx6lWSmhR5BA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Epic\\Documents\\hogeschool\\DevOps\\project-webscraping\\Webscraper\\Webscraper\\Webscraper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Epic\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\Epic\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Epic\\.nuget\\packages\\selenium.support\\4.16.2\\selenium.support.4.16.2.nupkg.sha512",
+    "C:\\Users\\Epic\\.nuget\\packages\\selenium.webdriver\\4.16.2\\selenium.webdriver.4.16.2.nupkg.sha512"
+  ],
+  "logs": []
+}
