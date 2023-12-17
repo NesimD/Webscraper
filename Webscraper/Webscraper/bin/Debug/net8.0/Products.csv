@@ -1,19 +1,27 @@
 ﻿sep=,
 Title,Price,Stock,Spec,DeliveryTime,CheapestProduct,CheapestPrice,CheapestPriceWebsite
-EKWB EK QuanVector² FE RTX 4090 D-RGB Ni+Ac waterkoeling,289,Leverbaar binnen 10 werkdagen,"Soort: Videokaartkoeler
-Materiaal heatsink: Koper (vernikkeld))",not define,EKWB EK QuanVector² FE RTX 4090 D-RGB Ni+Ac waterkoeling,289,https://alternate.be/
-EKWB EK-Quantum Vector² FE RTX 4090 D-RGB - Nickel + Plexi waterkoeling,289,"Niet op voorraad, geen informatie beschikbaar","Soort: Videokaartkoeler
-Apparaattype: Waterkoeling
-Materiaal heatsink: Acryl, Koper (vernikkeld)",not define,EKWB EK QuanVector² FE RTX 4090 D-RGB Ni+Ac waterkoeling,289,https://alternate.be/
-EKWB EK-Quantum Vector² Master RTX 4090 D-RGB - Nikkel + acryl waterkoeling,299,Leverbaar binnen 10 werkdagen,"Soort: Videokaartkoeler
-Apparaattype: Waterkoeling
-Materiaal heatsink: Acryl, Koper (vernikkeld))",not define,EKWB EK QuanVector² FE RTX 4090 D-RGB Ni+Ac waterkoeling,289,https://alternate.be/
-EKWB EK-Quantum Vector² Strix/TUF RTX 4090 D-RGB - White Edition waterkoeling,299,Leverbaar binnen 10 werkdagen,"Soort: Videokaartkoeler
-Materiaal heatsink: Acryl, Koper (vernikkeld))",not define,EKWB EK QuanVector² FE RTX 4090 D-RGB Ni+Ac waterkoeling,289,https://alternate.be/
-EKWB EK-Quantum Vector² Trio RTX 4090 D-RGB - Nickel + Plexi waterkoeling,299,"Niet op voorraad, geen informatie beschikbaar","Soort: Videokaartkoeler
-Materiaal heatsink: Acryl, Koper (vernikkeld)",not define,EKWB EK QuanVector² FE RTX 4090 D-RGB Ni+Ac waterkoeling,289,https://alternate.be/
-INNO3D GeForce RTX 4090 ICHILL X3 - Videokaart,2099,not defined,24GB GDDR6X - PCIe 4.0 - 1x HDMI 2.1,Volgende werkdag in huis,EKWB EK QuanVector² FE RTX 4090 D-RGB Ni+Ac waterkoeling,289,https://alternate.be/
-MSI GeForce RTX 4090 VENTUS 3X E 24G OC - Videokaart,2149,not defined,24GB GDDR6X - PCIe 4.0 - 2x HDMI 2.1a,Volgende werkdag in huis,EKWB EK QuanVector² FE RTX 4090 D-RGB Ni+Ac waterkoeling,289,https://alternate.be/
-MSI GeForce RTX 4090 Gaming X TRIO - Videokaart,2149,not defined,24GB GDDR6X - PCIe 4.0 - 1x HDMI 2.1a,Volgende werkdag in huis,EKWB EK QuanVector² FE RTX 4090 D-RGB Ni+Ac waterkoeling,289,https://alternate.be/
-INNO3D Geforce RTX 4090 ICHILL Frostbite Pro - Videokaart,2195,not defined,24GB GDDR6X - PCIe 4.0 - 1x HDMI 2.1a,Volgende werkdag in huis,EKWB EK QuanVector² FE RTX 4090 D-RGB Ni+Ac waterkoeling,289,https://alternate.be/
-INNO3D GeForce RTX 4090 iChill Frostbite - Videokaart,2195,not defined,24GB GDDR6X - PCIe 4.0 - 1x HDMI 2.1,Volgende werkdag in huis,EKWB EK QuanVector² FE RTX 4090 D-RGB Ni+Ac waterkoeling,289,https://alternate.be/
+MSI GeForce RTX 4060 VENTUS 2X BLACK 8G OC grafische kaart,335,"Levering vertraagd, binnenkort beschikbaar","Grafische chip: NVIDIA GeForce RTX 4060
+Geheugen: 8 GB (GDDR6, 128 bit)
+Bezette slots: 2 Slots
+GPU-snelheid: 1830 MHz",not define,INNO3D GEFORCE RTX 4060 COMPACT - Videokaart,310,https://azerty.nl/
+GIGABYTE GeForce RTX 4060 EAGLE OC 8G grafische kaart,349,Op voorraad,"Grafische chip: NVIDIA GeForce RTX 4060
+Geheugen: 8 GB (GDDR6, 128 bit)
+Bezette slots: 2 Slots
+GPU-snelheid: 1830 MHz",not define,INNO3D GEFORCE RTX 4060 COMPACT - Videokaart,310,https://azerty.nl/
+ASUS GeForce RTX 4060 DUAL OC grafische kaart,349,Op voorraad,"Grafische chip: NVIDIA GeForce RTX 4060
+Geheugen: 8 GB (GDDR6, 128 bit)
+Bezette slots: 2,5 Slots
+GPU-snelheid: 1830 MHz",not define,INNO3D GEFORCE RTX 4060 COMPACT - Videokaart,310,https://azerty.nl/
+GIGABYTE GeForce RTX 4060 WINDFORCE OC 8G grafische kaart,349,Op voorraad,"Grafische chip: NVIDIA GeForce RTX 4060
+Geheugen: 8 GB (GDDR6, 128 bit)
+Bezette slots: 2 Slots
+Geheugensnelheid: 17000 MHz",not define,INNO3D GEFORCE RTX 4060 COMPACT - Videokaart,310,https://azerty.nl/
+GIGABYTE GeForce RTX 4060 OC Low Profile 8G grafische kaart,359,Op voorraad,"Grafische chip: NVIDIA GeForce RTX 4060
+Geheugen: 8 GB (GDDR6, 128 bit)
+Bezette slots: Geen informatie
+GPU-snelheid: 2475 MHz",not define,INNO3D GEFORCE RTX 4060 COMPACT - Videokaart,310,https://azerty.nl/
+INNO3D GEFORCE RTX 4060 COMPACT - Videokaart,310,not defined,8GB GDDR6 - PCI-e 4.0 - 1x HDMI,Volgende werkdag in huis,INNO3D GEFORCE RTX 4060 COMPACT - Videokaart,310,https://azerty.nl/
+INNO3D GEFORCE RTX 4060 TWIN X2 - Videokaart,319.9,not defined,8GB GDDR6 - PCIe 4.0 - 1 x HDMI,Volgende werkdag in huis,INNO3D GEFORCE RTX 4060 COMPACT - Videokaart,310,https://azerty.nl/
+MSI GeForce RTX 4060 VENTUS 2X BLACK 8G OC - Videokaart,329,not defined,8GB GDDR6 - PCIe 4.0 - 1 x HDMI,Volgende werkdag in huis,INNO3D GEFORCE RTX 4060 COMPACT - Videokaart,310,https://azerty.nl/
+Gigabyte GeForce RTX 4060 GAMING OC 8G - Videokaart,329,not defined,8GB GDDR6 - PCIe 4.0 - 2x HDMI,Volgende werkdag in huis,INNO3D GEFORCE RTX 4060 COMPACT - Videokaart,310,https://azerty.nl/
+INNO3D GEFORCE RTX 4060 TWIN X2 OC - Videokaart,329.9,not defined,8GB GDDR6 - PCIe 4.0 - 1 x HDMI,Volgende werkdag in huis,INNO3D GEFORCE RTX 4060 COMPACT - Videokaart,310,https://azerty.nl/

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Webscraper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1289bf54f39036760c1f99c9a7240529cc5bd8b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Webscraper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Webscraper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
